@@ -3,7 +3,7 @@
 # # # # # # # #
 
 # Basic
-name:               "Kording Lab"
+name: "Chandra Robot Δutonomy Lab"
 title:              "Kording Lab at the University of Pennsylvania"
 description:        "The Kording Lab is a computational neuroscience and causality research group at the University of Pennsylvania."
 
@@ -34,8 +34,8 @@ nav:
     # href:           "/blog"
 #   - name:           "abstracts"
 #     href:           "/abstracts"
-  - name:           "lab teachings"
-    href:           "/presentations"
+  # - name:           "lab teachings"
+  #   href:           "/presentations"
 
 # Sass
 sass:
